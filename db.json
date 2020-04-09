@@ -1,11 +1,6 @@
 {
 "produk":[
   {
-  "merek" : "Supra",
-  "harga" : 5500000,
-  "image" : "supra.jpg"
-  },
-  {
   "merek" : "Mio",
   "harga" : 3400000,
   "image" : "mio.jpg"
